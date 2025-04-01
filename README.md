@@ -16,10 +16,6 @@ To run the application on your machine and do some code overview:
    (View -> Server Explorer, Add Database Connection -> Microsoft SQL Server).
 7. Build the solution and run the project in Visual Studio.
 
-To just run the application on your machine:
-
-1. Open the folder named 'HoroLogica_App'.
-2. Direct to bin -> Debug -> net8.0-windows -> SWE5201_AssingmentV3.exe
 
 ## Application Overview
 
